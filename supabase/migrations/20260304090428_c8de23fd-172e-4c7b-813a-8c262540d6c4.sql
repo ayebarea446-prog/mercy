@@ -1,0 +1,1 @@
+ALTER TABLE public.orders ADD COLUMN pickup_station text NOT NULL DEFAULT '';
